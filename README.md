@@ -1,5 +1,5 @@
 # MyProjects
-list of the projects that I have made through pf my learning process
+list of the projects that I have made through out my learning process
 
 1-Pig Game 
 2-Guess My Number
